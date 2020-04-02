@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26771" started-at="2020-04-01T19:35:52 IST" finished-at="2020-04-01T19:36:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26771" started-at="2020-04-01T19:35:52 IST" finished-at="2020-04-01T19:36:19 IST">
+      <class name="practise.GridTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:practise.GridTest@167fdd33]" name="test" duration-ms="26645" started-at="2020-04-01T19:35:52 IST" finished-at="2020-04-01T19:36:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- practise.GridTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
